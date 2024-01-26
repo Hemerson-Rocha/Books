@@ -1,0 +1,16 @@
+.bookCard {
+    .nameBook {
+        color: #fc6621;
+    }
+
+    .price {
+        color: #002f52;
+    }
+    
+    .tags {
+        span {
+            background-color: #dcdcdc;
+            border-radius: 3px;
+        }
+    }
+}
